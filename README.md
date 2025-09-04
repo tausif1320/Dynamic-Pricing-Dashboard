@@ -92,4 +92,5 @@ The main objective of this project is to:
 4.Use the price adjustment simulator to see dynamic revenue impact.
 
 ## Screenshot / Demos
-image1 - 
+image1 - https://github.com/tausif1320/Dynamic-Pricing-Dashboard/blob/main/dashboard%20image.png
+image2 -
