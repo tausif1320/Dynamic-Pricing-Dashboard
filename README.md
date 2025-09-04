@@ -76,7 +76,7 @@ The main objective of this project is to:
 ---
 
 ## 🔹 Project Files  
-- `dynamic_pricing.pbix` → Power BI dashboard file  
+- `dynamic pricing.pbit` → Power BI dashboard file  
 - `cleaned_dataset.csv` → Cleaned dataset used for visualization  
 
 ---
@@ -93,4 +93,4 @@ The main objective of this project is to:
 
 ## Screenshot / Demos
 image1 - https://github.com/tausif1320/Dynamic-Pricing-Dashboard/blob/main/dashboard%20image.png
-image2 -
+image2 - https://github.com/tausif1320/Dynamic-Pricing-Dashboard/blob/main/Dashboard%20image%202.png
