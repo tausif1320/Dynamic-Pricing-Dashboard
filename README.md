@@ -45,17 +45,10 @@ The main objective of this project is to:
 3. **Category-wise Sales (Bar Chart)**  
    - 📌 Identifies top-performing product categories.  
 
-4. **Geo Heatmap (State-wise Sales)**  
-   - 📌 Highlights strong and weak regions.  
-
-5. **Order Status (Donut Chart)**  
-   - 📌 Tracks Delivered vs Cancelled orders.  
-
-6. **Trend Analysis (Line Chart)**  
+4. **Trend Analysis (Line Chart)**  
    - 📌 Seasonality, monthly, and quarterly growth.  
 
-7. **Tooltips & Drillthrough Pages**  
-   - 📌 Detailed insights without cluttering main visuals.  
+ 
 
 ---
 
@@ -76,8 +69,7 @@ The main objective of this project is to:
 ---
 
 ## 🔹 Project Files  
-- `dynamic pricing.pbit` → Power BI dashboard file  
-- `cleaned_dataset.csv` → Cleaned dataset used for visualization  
+- `dynamic pricing.pbit` → Power BI dashboard file 
 
 ---
 
